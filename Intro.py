@@ -1,7 +1,7 @@
 import pygame
 
 FPS = 60
-BGCOLOR = pygame.image.load('resources/cover2.png')
+BGCOLOR = pygame.image.load('cover2.png')
 
 
 class Game:
